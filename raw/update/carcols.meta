@@ -61298,7 +61298,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x75BE4DEC</modelName>
+          <modelName>sentinel_hsw</modelName>
           <modShopLabel>HSW_VEHMOD</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61319,7 +61319,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x863DBEDB</modelName>
+          <modelName>hsw_turbomod1</modelName>
           <modShopLabel>HSW_VEHMODT1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61340,7 +61340,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xC770413B</modelName>
+          <modelName>hsw_turbomod2</modelName>
           <modShopLabel>HSW_VEHMODT2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61361,7 +61361,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xD9ADE5B6</modelName>
+          <modelName>hsw_turbomod3</modelName>
           <modShopLabel>HSW_VEHMODT3</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61382,7 +61382,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xC3E5BA26</modelName>
+          <modelName>hsw_turbomod4</modelName>
           <modShopLabel>HSW_VEHMODT4</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61403,7 +61403,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x47A96A45</modelName>
+          <modelName>sentinel_hswliv1</modelName>
           <modShopLabel>HSW_LIV1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61424,7 +61424,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x8C3EF36F</modelName>
+          <modelName>sentinel_hswliv2</modelName>
           <modShopLabel>HSW_LIV2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61445,7 +61445,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xB6B8F69D</modelName>
+          <modelName>sentinel_hswwing1</modelName>
           <modShopLabel>HSW_WING1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61466,7 +61466,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x85B61498</modelName>
+          <modelName>sentinel_hswwing2</modelName>
           <modShopLabel>HSW_WING2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61487,7 +61487,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xD505824A</modelName>
+          <modelName>sent_livery1</modelName>
           <modShopLabel>SENT_LIV1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61508,7 +61508,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xE74426C7</modelName>
+          <modelName>sent_livery2</modelName>
           <modShopLabel>SENT_LIV2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61529,7 +61529,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xF7A8C790</modelName>
+          <modelName>sent_livery3</modelName>
           <modShopLabel>SENT_LIV3</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61550,7 +61550,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x07EEE81C</modelName>
+          <modelName>sent_livery4</modelName>
           <modShopLabel>SENT_LIV4</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61571,7 +61571,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x9A3B8CB7</modelName>
+          <modelName>sent_livery5</modelName>
           <modShopLabel>SENT_LIV5</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61592,7 +61592,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xABF4B029</modelName>
+          <modelName>sent_livery6</modelName>
           <modShopLabel>SENT_LIV6</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61613,7 +61613,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xC0D7D9EF</modelName>
+          <modelName>sent_livery7</modelName>
           <modShopLabel>SENT_LIV7</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61634,7 +61634,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xD2897D52</modelName>
+          <modelName>sent_livery8</modelName>
           <modShopLabel>SENT_LIV8</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61655,7 +61655,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x63541EE1</modelName>
+          <modelName>sent_livery9</modelName>
           <modShopLabel>SENT_LIV9</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61676,7 +61676,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xBB22390B</modelName>
+          <modelName>sent_livery10</modelName>
           <modShopLabel>SENT_LIV10</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61697,7 +61697,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x147DF67B</modelName>
+          <modelName>sent_wing_1a</modelName>
           <modShopLabel>SENT_WING1A</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61718,7 +61718,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xE2A712CE</modelName>
+          <modelName>sent_wing_1b</modelName>
           <modShopLabel>SENT_WING1B</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61739,7 +61739,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xF7C23D04</modelName>
+          <modelName>sent_wing_1c</modelName>
           <modShopLabel>SENT_WING1C</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61760,7 +61760,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xC61259A1</modelName>
+          <modelName>sent_wing_1d</modelName>
           <modShopLabel>SENT_WING1D</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61781,7 +61781,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xCB58642D</modelName>
+          <modelName>sent_wing_1e</modelName>
           <modShopLabel>SENT_WING1E</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61802,7 +61802,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x9CED8758</modelName>
+          <modelName>sent_wing_1f</modelName>
           <modShopLabel>SENT_WING1F</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61823,7 +61823,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xAAF7236B</modelName>
+          <modelName>sent_wing_1g</modelName>
           <modShopLabel>SENT_WING1G</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61844,7 +61844,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xB4F7B760</modelName>
+          <modelName>sent_wing_1h</modelName>
           <modShopLabel>SENT_WING1H</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61865,7 +61865,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x832AD3C7</modelName>
+          <modelName>sent_wing_1i</modelName>
           <modShopLabel>SENT_WING1I</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61886,7 +61886,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x980CFD8B</modelName>
+          <modelName>sent_wing_1j</modelName>
           <modShopLabel>SENT_WING1J</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61907,7 +61907,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x66531A18</modelName>
+          <modelName>sent_wing_1k</modelName>
           <modShopLabel>SENT_WING1K</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61928,7 +61928,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x6BB224D6</modelName>
+          <modelName>sent_wing_1l</modelName>
           <modShopLabel>SENT_WING1L</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61949,7 +61949,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x3A2941D1</modelName>
+          <modelName>sent_wing_1m</modelName>
           <modShopLabel>SENT_WING1M</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61970,7 +61970,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x4ACEE31C</modelName>
+          <modelName>sent_wing_1n</modelName>
           <modShopLabel>SENT_WING1N</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -61991,7 +61991,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x1D438806</modelName>
+          <modelName>sent_wing_1o</modelName>
           <modShopLabel>SENT_WING1O</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62012,7 +62012,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x5FB47CEB</modelName>
+          <modelName>sent_wing_3a</modelName>
           <modShopLabel>SENT_WING3A</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62033,7 +62033,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x165B3A6E</modelName>
+          <modelName>sent_wing_5</modelName>
           <modShopLabel>SENT_WING5</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62054,7 +62054,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x05CD9953</modelName>
+          <modelName>sent_wing_6</modelName>
           <modShopLabel>SENT_WING6</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62075,7 +62075,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x1C9FC6F7</modelName>
+          <modelName>sent_wing_7</modelName>
           <modShopLabel>SENT_WING7</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62096,7 +62096,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x493DA032</modelName>
+          <modelName>sent_wing_8</modelName>
           <modShopLabel>SENT_WING8</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62117,7 +62117,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x40128DDC</modelName>
+          <modelName>sent_wing_9</modelName>
           <modShopLabel>SENT_WING9</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62138,7 +62138,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xA0FF8F04</modelName>
+          <modelName>sent_wing_10</modelName>
           <modShopLabel>SENT_WING10</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62159,7 +62159,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xCF3F6B83</modelName>
+          <modelName>sent_wing_11</modelName>
           <modShopLabel>SENT_WING11</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62180,7 +62180,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x9261F1C9</modelName>
+          <modelName>sent_wing_12</modelName>
           <modShopLabel>SENT_WING12</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62201,7 +62201,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x758C43CC</modelName>
+          <modelName>sent_bumr_3</modelName>
           <modShopLabel>SENT_BUMR_3</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62222,7 +62222,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x6B0CAECD</modelName>
+          <modelName>sent_bumr_4</modelName>
           <modShopLabel>SENT_BUMR_4</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62243,7 +62243,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x58CE0A50</modelName>
+          <modelName>sent_bumr_5</modelName>
           <modShopLabel>SENT_BUMR_5</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62264,7 +62264,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xBC86D1C0</modelName>
+          <modelName>sent_bumr_6</modelName>
           <modShopLabel>SENT_BUMR_6</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62285,7 +62285,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xB260BD74</modelName>
+          <modelName>sent_bumr_7</modelName>
           <modShopLabel>SENT_BUMR_7</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62306,7 +62306,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xA02618FF</modelName>
+          <modelName>sent_bumr_8</modelName>
           <modShopLabel>SENT_BUMR_8</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62327,7 +62327,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x6C2E8ECD</modelName>
+          <modelName>sent_skirt_2</modelName>
           <modShopLabel>SENT_SKIRT2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62348,7 +62348,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xD9FCEA68</modelName>
+          <modelName>sent_skirt_3</modelName>
           <modShopLabel>SENT_SKIRT3</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62369,7 +62369,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xCF9AD5A4</modelName>
+          <modelName>sent_skirt_4</modelName>
           <modShopLabel>SENT_SKIRT4</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62390,7 +62390,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xBD613131</modelName>
+          <modelName>sent_skirt_5</modelName>
           <modShopLabel>SENT_SKIRT5</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62411,7 +62411,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xD2645B33</modelName>
+          <modelName>sent_skirt_6</modelName>
           <modShopLabel>SENT_SKIRT6</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62432,7 +62432,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xC0EDB846</modelName>
+          <modelName>sent_skirt_7</modelName>
           <modShopLabel>SENT_SKIRT7</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62453,7 +62453,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x16046276</modelName>
+          <modelName>sent_skirt_8</modelName>
           <modShopLabel>SENT_SKIRT8</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62474,7 +62474,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x0CBE4FEA</modelName>
+          <modelName>sent_skirt_9</modelName>
           <modShopLabel>SENT_SKIRT9</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62495,7 +62495,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x8C8A184C</modelName>
+          <modelName>sent_skirt_10</modelName>
           <modShopLabel>SENT_SKIRT10</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62516,7 +62516,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x7E807C39</modelName>
+          <modelName>sent_skirt_11</modelName>
           <modShopLabel>SENT_SKIRT11</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62537,7 +62537,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xA90FD157</modelName>
+          <modelName>sent_skirt_12</modelName>
           <modShopLabel>SENT_SKIRT12</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62558,7 +62558,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x9B4D35D2</modelName>
+          <modelName>sent_skirt_13</modelName>
           <modShopLabel>SENT_SKIRT13</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -62579,7 +62579,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xA4BC1AE6</modelName>
+          <modelName>sent_hood_2</modelName>
           <modShopLabel>SENT_HOOD2</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -62602,7 +62602,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xAA7D2668</modelName>
+          <modelName>sent_hood_3</modelName>
           <modShopLabel>SENT_HOOD3</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -62625,7 +62625,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xF711BF84</modelName>
+          <modelName>sent_hood_4</modelName>
           <modShopLabel>SENT_HOOD4</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -62648,7 +62648,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x03505801</modelName>
+          <modelName>sent_hood_5</modelName>
           <modShopLabel>SENT_HOOD5</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -62671,7 +62671,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xD1F6F54F</modelName>
+          <modelName>sent_hood_6</modelName>
           <modShopLabel>SENT_HOOD6</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -62694,7 +62694,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xE03C91DA</modelName>
+          <modelName>sent_hood_7</modelName>
           <modShopLabel>SENT_HOOD7</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -62717,7 +62717,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x281BA19B</modelName>
+          <modelName>sent_hood_8</modelName>
           <modShopLabel>SENT_HOOD8</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -62740,7 +62740,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x3CC5CAEF</modelName>
+          <modelName>sent_hood_9</modelName>
           <modShopLabel>SENT_HOOD9</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -62763,7 +62763,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x4BF21D90</modelName>
+          <modelName>sent_hood_10</modelName>
           <modShopLabel>SENT_HOOD10</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -62786,7 +62786,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xC550104E</modelName>
+          <modelName>sent_hood_11</modelName>
           <modShopLabel>SENT_HOOD11</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -62809,7 +62809,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xD78AB4C3</modelName>
+          <modelName>sent_hood_12</modelName>
           <modShopLabel>SENT_HOOD12</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -62832,7 +62832,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x22AD4B07</modelName>
+          <modelName>sent_hood_13</modelName>
           <modShopLabel>SENT_HOOD13</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -62855,7 +62855,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x34EEEF8A</modelName>
+          <modelName>sent_hood_14</modelName>
           <modShopLabel>SENT_HOOD14</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -62878,7 +62878,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x792DF77F</modelName>
+          <modelName>sent_hood_15</modelName>
           <modShopLabel>SENT_HOOD15</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -62901,7 +62901,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x675F53E2</modelName>
+          <modelName>sent_hood_16</modelName>
           <modShopLabel>SENT_HOOD16</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -62924,7 +62924,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x03A68C72</modelName>
+          <modelName>sent_hood_17</modelName>
           <modShopLabel>SENT_HOOD17</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -62947,7 +62947,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x31B16887</modelName>
+          <modelName>sent_hood_18</modelName>
           <modShopLabel>SENT_HOOD18</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -62970,7 +62970,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xAE136149</modelName>
+          <modelName>sent_hood_19</modelName>
           <modShopLabel>SENT_HOOD19</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -62993,7 +62993,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xB13B0604</modelName>
+          <modelName>sent_hood_20</modelName>
           <modShopLabel>SENT_HOOD20</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -63016,7 +63016,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x6AF97982</modelName>
+          <modelName>sent_hood_21</modelName>
           <modShopLabel>SENT_HOOD21</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -63039,7 +63039,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x5CF6DD7D</modelName>
+          <modelName>sent_hood_22</modelName>
           <modShopLabel>SENT_HOOD22</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -63062,7 +63062,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x869D30C9</modelName>
+          <modelName>sent_hood_23</modelName>
           <modShopLabel>SENT_HOOD23</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -63085,7 +63085,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x2CAD9D35</modelName>
+          <modelName>sent_racemod2</modelName>
           <modShopLabel>SENT_RACEMOD2</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -63108,7 +63108,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xE1EB07B1</modelName>
+          <modelName>sent_racemod3</modelName>
           <modShopLabel>SENT_RACEMOD3</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -63131,7 +63131,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x0FA4E324</modelName>
+          <modelName>sent_racemod4</modelName>
           <modShopLabel>SENT_RACEMOD4</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -63154,7 +63154,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x59FFF7DD</modelName>
+          <modelName>sent_racemod5</modelName>
           <modShopLabel>SENT_RACEMOD5</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -63177,7 +63177,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x476152A0</modelName>
+          <modelName>sent_racemod6</modelName>
           <modShopLabel>SENT_RACEMOD6</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -63200,7 +63200,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x3D223E22</modelName>
+          <modelName>sent_racemod7</modelName>
           <modShopLabel>SENT_RACEMOD7</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -63223,7 +63223,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x2AF099BF</modelName>
+          <modelName>sent_racemod8</modelName>
           <modShopLabel>SENT_RACEMOD8</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -63246,7 +63246,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xC8B63915</modelName>
+          <modelName>sent_splitter_2</modelName>
           <modShopLabel>SENT_SPLITTER2</modShopLabel>
           <linkedModels>
             <Item>sent_intercooler2</Item>
@@ -63271,7 +63271,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x81DA2B5E</modelName>
+          <modelName>sent_splitter_3</modelName>
           <modShopLabel>SENT_SPLITTER3</modShopLabel>
           <linkedModels>
             <Item>sent_intercooler2</Item>
@@ -63296,7 +63296,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x73438E31</modelName>
+          <modelName>sent_splitter_4</modelName>
           <modShopLabel>SENT_SPLITTER4</modShopLabel>
           <linkedModels>
             <Item>sent_intercooler2</Item>
@@ -63321,7 +63321,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x81AF2B0C</modelName>
+          <modelName>sent_splitter_5</modelName>
           <modShopLabel>SENT_SPLITTER5</modShopLabel>
           <linkedModels>
             <Item>sent_intercooler2</Item>
@@ -63346,7 +63346,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x74208FEF</modelName>
+          <modelName>sent_splitter_6</modelName>
           <modShopLabel>SENT_SPLITTER6</modShopLabel>
           <linkedModels>
             <Item>sent_intercooler2</Item>
@@ -63371,7 +63371,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xA4FDF1A9</modelName>
+          <modelName>sent_splitter_7</modelName>
           <modShopLabel>SENT_SPLITTER7</modShopLabel>
           <linkedModels>
             <Item>sent_intercooler2</Item>
@@ -63396,7 +63396,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x96345416</modelName>
+          <modelName>sent_splitter_8</modelName>
           <modShopLabel>SENT_SPLITTER8</modShopLabel>
           <linkedModels>
             <Item>sent_intercooler2</Item>
@@ -63421,7 +63421,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x4F9F46ED</modelName>
+          <modelName>sent_splitter_9</modelName>
           <modShopLabel>SENT_SPLITTER9</modShopLabel>
           <linkedModels>
             <Item>sent_intercooler2</Item>
@@ -63446,7 +63446,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x95290E53</modelName>
+          <modelName>sent_splitter_10</modelName>
           <modShopLabel>SENT_SPLITTER10</modShopLabel>
           <linkedModels>
             <Item>sent_intercooler2</Item>
@@ -63471,7 +63471,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xC3F1EBE4</modelName>
+          <modelName>sent_splitter_11</modelName>
           <modShopLabel>SENT_SPLITTER11</modShopLabel>
           <linkedModels>
             <Item>sent_intercooler2</Item>
@@ -63496,7 +63496,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xB183C708</modelName>
+          <modelName>sent_splitter_12</modelName>
           <modShopLabel>SENT_SPLITTER12</modShopLabel>
           <linkedModels>
             <Item>sent_intercooler2</Item>
@@ -63521,7 +63521,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x41734930</modelName>
+          <modelName>sent_exh_4</modelName>
           <modShopLabel>SENT_EXH4</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -63546,7 +63546,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x363632B6</modelName>
+          <modelName>sent_exh_5</modelName>
           <modShopLabel>SENT_EXH5</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -63571,7 +63571,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x265912FC</modelName>
+          <modelName>sent_exh_6</modelName>
           <modShopLabel>SENT_EXH6</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -63596,7 +63596,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x140C1931</modelName>
+          <modelName>sent_flaps1</modelName>
           <modShopLabel>SENT_FLAPS1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -63617,7 +63617,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x0160F3DB</modelName>
+          <modelName>sent_flaps2</modelName>
           <modShopLabel>SENT_FLAPS2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -63638,7 +63638,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xDE8FAE39</modelName>
+          <modelName>sent_flaps3</modelName>
           <modShopLabel>SENT_FLAPS3</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -63659,7 +63659,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x963C36E2</modelName>
+          <modelName>sent_visor1</modelName>
           <modShopLabel>SENT_VISOR1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -63680,7 +63680,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xE4DF5427</modelName>
+          <modelName>sent_visor2</modelName>
           <modShopLabel>SENT_VISOR2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -63701,7 +63701,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xEF93698F</modelName>
+          <modelName>sent_visor3</modelName>
           <modShopLabel>SENT_VISOR3</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -63722,7 +63722,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x2AABC1DC</modelName>
+          <modelName>sent_roof_1</modelName>
           <modShopLabel>SENT_ROOF1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -63743,7 +63743,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x3D596737</modelName>
+          <modelName>sent_roof_2</modelName>
           <modShopLabel>SENT_ROOF2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -63764,7 +63764,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x160E18A1</modelName>
+          <modelName>sent_roof_3</modelName>
           <modShopLabel>SENT_ROOF3</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -63785,7 +63785,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x6B2AC2F1</modelName>
+          <modelName>sent_roof_4</modelName>
           <modShopLabel>SENT_ROOF4</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -63806,7 +63806,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xA05D2D55</modelName>
+          <modelName>sent_roof_5</modelName>
           <modShopLabel>SENT_ROOF5</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -63827,7 +63827,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x8EDD8A56</modelName>
+          <modelName>sent_roof_6</modelName>
           <modShopLabel>SENT_ROOF6</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -63848,7 +63848,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xB5ACD7F4</modelName>
+          <modelName>sent_roof_7</modelName>
           <modShopLabel>SENT_ROOF7</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -64658,7 +64658,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xC5600F96</modelName>
+          <modelName>banshee_livery1a</modelName>
           <modShopLabel>BANSH_LIV1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -64679,7 +64679,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xFF18084B</modelName>
+          <modelName>banshee_livery2</modelName>
           <modShopLabel>BANSH_LIV2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -64700,7 +64700,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x0D5D24D5</modelName>
+          <modelName>banshee_livery3</modelName>
           <modShopLabel>BANSH_LIV3</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -64721,7 +64721,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x5E814720</modelName>
+          <modelName>banshee_livery4</modelName>
           <modShopLabel>BANSH_LIV4</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -64742,7 +64742,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xFAAE7F78</modelName>
+          <modelName>banshee_livery5</modelName>
           <modShopLabel>BANSH_LIV5</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -64763,7 +64763,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xC8F09BFD</modelName>
+          <modelName>banshee_livery6</modelName>
           <modShopLabel>BANSH_LIV6</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -64784,7 +64784,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xD623B663</modelName>
+          <modelName>banshee_livery7</modelName>
           <modShopLabel>BANSH_LIV7</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -64805,7 +64805,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x246DD2F6</modelName>
+          <modelName>banshee_livery8</modelName>
           <modShopLabel>BANSH_LIV8</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -64826,7 +64826,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xA0614ADB</modelName>
+          <modelName>banshee_livery9</modelName>
           <modShopLabel>BANSH_LIV9</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -64847,7 +64847,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x5A9139EE</modelName>
+          <modelName>banshee_livery10</modelName>
           <modShopLabel>BANSH_LIV10</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -64868,7 +64868,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x4C439D53</modelName>
+          <modelName>banshee_livery11</modelName>
           <modShopLabel>BANSH_LIV11</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -64889,7 +64889,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x6EE5E297</modelName>
+          <modelName>banshee_livery12</modelName>
           <modShopLabel>BANSH_LIV12</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -64910,7 +64910,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x609F460A</modelName>
+          <modelName>banshee_livery13</modelName>
           <modShopLabel>BANSH_LIV13</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -64931,7 +64931,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x9F9143D5</modelName>
+          <modelName>banshee_livery14</modelName>
           <modShopLabel>BANSH_LIV14</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -64952,7 +64952,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x51FEA8B1</modelName>
+          <modelName>banshee_livery15</modelName>
           <modShopLabel>BANSH_LIV15</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -64973,7 +64973,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x997ECD67</modelName>
+          <modelName>banshee_hsw</modelName>
           <modShopLabel>HSW_VEHMOD</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -64994,7 +64994,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x863DBEDB</modelName>
+          <modelName>hsw_turbomod1</modelName>
           <modShopLabel>HSW_VEHMODT1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -65015,7 +65015,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xC770413B</modelName>
+          <modelName>hsw_turbomod2</modelName>
           <modShopLabel>HSW_VEHMODT2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -65036,7 +65036,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xD9ADE5B6</modelName>
+          <modelName>hsw_turbomod3</modelName>
           <modShopLabel>HSW_VEHMODT3</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -65057,7 +65057,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xC3E5BA26</modelName>
+          <modelName>hsw_turbomod4</modelName>
           <modShopLabel>HSW_VEHMODT4</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -65078,7 +65078,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x0F97FC43</modelName>
+          <modelName>banshee_hswliv1</modelName>
           <modShopLabel>HSW_LIV1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -65099,7 +65099,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x6434A587</modelName>
+          <modelName>banshee_hswliv2</modelName>
           <modShopLabel>HSW_LIV2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -65120,7 +65120,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xFBC3318A</modelName>
+          <modelName>banshee_hswwing1</modelName>
           <modShopLabel>HSW_WING1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -65141,7 +65141,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xEDB19567</modelName>
+          <modelName>banshee_hswwing2</modelName>
           <modShopLabel>HSW_WING2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -71730,7 +71730,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x238D14B9</modelName>
+          <modelName>schwarzer_wing_1c</modelName>
           <modShopLabel>SCHW_WING_1C</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -71751,7 +71751,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xDE90313D</modelName>
+          <modelName>schwarzer_wing_a1</modelName>
           <modShopLabel>SCHW_WING_A1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -71772,7 +71772,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x5EE031FB</modelName>
+          <modelName>schwarzer_wing_ac</modelName>
           <modShopLabel>SCHW_WING_AC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -71793,7 +71793,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xF989A982</modelName>
+          <modelName>schwarzer_wing_afc</modelName>
           <modShopLabel>SCHW_WING_AFC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -71814,7 +71814,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xF93D657F</modelName>
+          <modelName>schwarzer_wing_b1</modelName>
           <modShopLabel>SCHW_WING_B1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -71835,7 +71835,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x3D8FEE3B</modelName>
+          <modelName>schwarzer_wing_bc</modelName>
           <modShopLabel>SCHW_WING_BC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -71856,7 +71856,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x718DB625</modelName>
+          <modelName>schwarzer_wing_2c</modelName>
           <modShopLabel>SCHW_WING_2C</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -71877,7 +71877,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xDF67A27F</modelName>
+          <modelName>schwarzer_wing_c1</modelName>
           <modShopLabel>SCHW_WING_C1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -71898,7 +71898,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x64ECAD73</modelName>
+          <modelName>schwarzer_wing_cc</modelName>
           <modShopLabel>SCHW_WING_CC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -71919,7 +71919,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x03EE6854</modelName>
+          <modelName>schwarzer_wing_d1</modelName>
           <modShopLabel>SCHW_WING_D1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -71940,7 +71940,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x76B5CDCD</modelName>
+          <modelName>schwarzer_wing_dc</modelName>
           <modShopLabel>SCHW_WING_DC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -71961,7 +71961,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xE5BAE91F</modelName>
+          <modelName>schwarzer_fin_a1</modelName>
           <modShopLabel>SCHW_FIN_A1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -71982,7 +71982,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x746084D4</modelName>
+          <modelName>schwarzer_fin_ac</modelName>
           <modShopLabel>SCHW_FIN_AC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72003,7 +72003,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xF05A8241</modelName>
+          <modelName>schwarzer_fin_afc</modelName>
           <modShopLabel>SCHW_FIN_AFC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72024,7 +72024,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xCEF33A70</modelName>
+          <modelName>schwarzer_fin_b1</modelName>
           <modShopLabel>SCHW_FIN_B1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72045,7 +72045,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xE9F26A46</modelName>
+          <modelName>schwarzer_fin_bc</modelName>
           <modShopLabel>SCHW_FIN_BC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72066,7 +72066,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xAB05F2DB</modelName>
+          <modelName>schwarzer_fin_bfc</modelName>
           <modShopLabel>SCHW_FIN_BFC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72087,7 +72087,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x3EBE6A31</modelName>
+          <modelName>schwarzer_skirt_a1</modelName>
           <modShopLabel>SCHW_SKIRT_A1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72108,7 +72108,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xD7C91C48</modelName>
+          <modelName>schwarzer_skirt_a2</modelName>
           <modShopLabel>SCHW_SKIRT_A2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72129,7 +72129,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x90E50E49</modelName>
+          <modelName>schwarzer_skirt_ac</modelName>
           <modShopLabel>SCHW_SKIRT_AC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72150,7 +72150,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x6B203ADC</modelName>
+          <modelName>schwarzer_skirt_b1</modelName>
           <modShopLabel>SCHW_SKIRT_B1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72171,7 +72171,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x73C7CC2B</modelName>
+          <modelName>schwarzer_skirt_b2</modelName>
           <modShopLabel>SCHW_SKIRT_B2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72192,7 +72192,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x328549DB</modelName>
+          <modelName>schwarzer_skirt_bc</modelName>
           <modShopLabel>SCHW_SKIRT_BC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72213,7 +72213,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x78515646</modelName>
+          <modelName>schwarzer_skirt_c1</modelName>
           <modShopLabel>SCHW_SKIRT_C1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72234,7 +72234,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x9C309E04</modelName>
+          <modelName>schwarzer_skirt_c2</modelName>
           <modShopLabel>SCHW_SKIRT_C2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72255,7 +72255,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x0398ED23</modelName>
+          <modelName>schwarzer_skirt_cc</modelName>
           <modShopLabel>SCHW_SKIRT_CC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72276,7 +72276,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x32883662</modelName>
+          <modelName>schwarzer_skirt_cfc</modelName>
           <modShopLabel>SCHW_SKIRT_CFC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72297,7 +72297,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xD4A2D779</modelName>
+          <modelName>schwarzer_skirt_cfc1</modelName>
           <modShopLabel>SCHW_SKIRT_CFC1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72318,7 +72318,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xE2C873C4</modelName>
+          <modelName>schwarzer_skirt_cfc2</modelName>
           <modShopLabel>SCHW_SKIRT_CFC2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72339,7 +72339,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xB6859DB4</modelName>
+          <modelName>schwarzer_split_ac</modelName>
           <modShopLabel>SCHW_SPLIT_AC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72360,7 +72360,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xC1FB7407</modelName>
+          <modelName>schwarzer_split_ac1</modelName>
           <modShopLabel>SCHW_SPLIT_AC1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72381,7 +72381,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x8DC00B91</modelName>
+          <modelName>schwarzer_split_ac2</modelName>
           <modShopLabel>SCHW_SPLIT_AC2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72402,7 +72402,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x44FD3A11</modelName>
+          <modelName>schwarzer_split_bc</modelName>
           <modShopLabel>SCHW_SPLIT_BC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72423,7 +72423,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xB7B848F4</modelName>
+          <modelName>schwarzer_split_bc1</modelName>
           <modShopLabel>SCHW_SPLIT_BC1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72444,7 +72444,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xC97AEC79</modelName>
+          <modelName>schwarzer_split_bc2</modelName>
           <modShopLabel>SCHW_SPLIT_BC2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72465,7 +72465,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x95BB017E</modelName>
+          <modelName>schwarzer_split_bfc</modelName>
           <modShopLabel>SCHW_SPLIT_BFC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72486,7 +72486,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x3FA25E2D</modelName>
+          <modelName>schwarzer_split_bfc1</modelName>
           <modShopLabel>SCHW_SPLIT_BFC1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72507,7 +72507,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x416561B3</modelName>
+          <modelName>schwarzer_split_bfc2</modelName>
           <modShopLabel>SCHW_SPLIT_BFC2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72528,7 +72528,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x4D594921</modelName>
+          <modelName>schwarzer_split_cc</modelName>
           <modShopLabel>SCHW_SPLIT_CC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72549,7 +72549,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x7F07E71B</modelName>
+          <modelName>schwarzer_split_cc1</modelName>
           <modShopLabel>SCHW_SPLIT_CC1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72570,7 +72570,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x10D30AAF</modelName>
+          <modelName>schwarzer_split_cc2</modelName>
           <modShopLabel>SCHW_SPLIT_CC2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72591,7 +72591,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x18BA9552</modelName>
+          <modelName>schwarzer_split_cfc</modelName>
           <modShopLabel>SCHW_SPLIT_CFC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72612,7 +72612,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x0EFF4445</modelName>
+          <modelName>schwarzer_split_cfc1</modelName>
           <modShopLabel>SCHW_SPLIT_CFC1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72633,7 +72633,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x03062C53</modelName>
+          <modelName>schwarzer_split_cfc2</modelName>
           <modShopLabel>SCHW_SPLIT_CFC2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72654,7 +72654,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xC433532B</modelName>
+          <modelName>schwarzer_bonnet_a1</modelName>
           <modShopLabel>SCHW_BONNET_A1</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -72677,7 +72677,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x5106ED40</modelName>
+          <modelName>schwarzer_bonnet_ac</modelName>
           <modShopLabel>SCHW_BONNET_AC</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -72700,7 +72700,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x57D09587</modelName>
+          <modelName>schwarzer_bonnet_b1</modelName>
           <modShopLabel>SCHW_BONNET_B1</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -72723,7 +72723,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xB3D6CD7E</modelName>
+          <modelName>schwarzer_bonnet_bc</modelName>
           <modShopLabel>SCHW_BONNET_BC</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -72746,7 +72746,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xB9133B5F</modelName>
+          <modelName>schwarzer_bonnet_c1</modelName>
           <modShopLabel>SCHW_BONNET_C1</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -72769,7 +72769,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x0AD7DE7B</modelName>
+          <modelName>schwarzer_bonnet_cc</modelName>
           <modShopLabel>SCHW_BONNET_CC</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -72792,7 +72792,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xB4D2B3BA</modelName>
+          <modelName>schwarzer_bonnet_d1</modelName>
           <modShopLabel>SCHW_BONNET_D1</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -72815,7 +72815,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x8406D24B</modelName>
+          <modelName>schwarzer_bonnet_dc</modelName>
           <modShopLabel>SCHW_BONNET_DC</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -72838,7 +72838,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xAAF31C73</modelName>
+          <modelName>schwarzer_bonnet_e1</modelName>
           <modShopLabel>SCHW_BONNET_E1</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -72861,7 +72861,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x1D0D00A5</modelName>
+          <modelName>schwarzer_bonnet_ec</modelName>
           <modShopLabel>SCHW_BONNET_EC</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -72884,7 +72884,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x1AFC97B0</modelName>
+          <modelName>schwarzer_bonnet_f1</modelName>
           <modShopLabel>SCHW_BONNET_F1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72905,7 +72905,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x08A6F305</modelName>
+          <modelName>schwarzer_bonnet_f2</modelName>
           <modShopLabel>SCHW_BONNET_F2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72926,7 +72926,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x8ECCFEF7</modelName>
+          <modelName>schwarzer_bonnet_fc</modelName>
           <modShopLabel>SCHW_BONNET_FC</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72947,7 +72947,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x9C729A42</modelName>
+          <modelName>schwarzer_bonnet_fd</modelName>
           <modShopLabel>SCHW_BONNET_FD</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -72968,7 +72968,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x074F64A1</modelName>
+          <modelName>schwarzer_grillnull</modelName>
           <modShopLabel>SCHW_GRLL_A</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -72991,7 +72991,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x487CF7F8</modelName>
+          <modelName>schwarzer_grill_a1</modelName>
           <modShopLabel>SCHW_GRILL_A1</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -73014,7 +73014,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x228CAC18</modelName>
+          <modelName>schwarzer_grill_a2</modelName>
           <modShopLabel>SCHW_GRILL_A2</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -73037,7 +73037,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x67F2B0F7</modelName>
+          <modelName>schwarzer_grill_b1</modelName>
           <modShopLabel>SCHW_GRILL_B1</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -73060,7 +73060,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x25212B4D</modelName>
+          <modelName>schwarzer_grill_b2</modelName>
           <modShopLabel>SCHW_GRILL_B2</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -73083,7 +73083,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x10E982DA</modelName>
+          <modelName>schwarzer_grill_bc</modelName>
           <modShopLabel>SCHW_GRILL_BC</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -73106,7 +73106,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x21882417</modelName>
+          <modelName>schwarzer_grill_bd</modelName>
           <modShopLabel>SCHW_GRILL_BD</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -73129,10 +73129,10 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x1ABBC1DB</modelName>
+          <modelName>schwarzer_exh_1c</modelName>
           <modShopLabel>SCHW_EXH_1C</modShopLabel>
           <linkedModels>
-            <Item>0x220BA674</Item>
+            <Item>schwarzer_exh_nodes_1</Item>
           </linkedModels>
           <turnOffBones>
             <Item>misc_e</Item>
@@ -73156,10 +73156,10 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x3008EC75</modelName>
+          <modelName>schwarzer_exh_1d</modelName>
           <modShopLabel>SCHW_EXH_1D</modShopLabel>
           <linkedModels>
-            <Item>0x220BA674</Item>
+            <Item>schwarzer_exh_nodes_1</Item>
           </linkedModels>
           <turnOffBones>
             <Item>misc_e</Item>
@@ -73183,10 +73183,10 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xFE2E08C0</modelName>
+          <modelName>schwarzer_exh_1e</modelName>
           <modShopLabel>SCHW_EXH_1E</modShopLabel>
           <linkedModels>
-            <Item>0x220BA674</Item>
+            <Item>schwarzer_exh_nodes_1</Item>
           </linkedModels>
           <turnOffBones>
             <Item>misc_e</Item>
@@ -73210,10 +73210,10 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x2228CFCD</modelName>
+          <modelName>schwarzer_exh_2c</modelName>
           <modShopLabel>SCHW_EXH_2C</modShopLabel>
           <linkedModels>
-            <Item>0x0B517900</Item>
+            <Item>schwarzer_exh_nodes_2</Item>
           </linkedModels>
           <turnOffBones>
             <Item>misc_e</Item>
@@ -73237,10 +73237,10 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xC46B144F</modelName>
+          <modelName>schwarzer_exh_2d</modelName>
           <modShopLabel>SCHW_EXH_2D</modShopLabel>
           <linkedModels>
-            <Item>0x0B517900</Item>
+            <Item>schwarzer_exh_nodes_2</Item>
           </linkedModels>
           <turnOffBones>
             <Item>misc_e</Item>
@@ -73264,10 +73264,10 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x03377F5A</modelName>
+          <modelName>schwarzer_exh_3b</modelName>
           <modShopLabel>SCHW_EXH_3B</modShopLabel>
           <linkedModels>
-            <Item>0x8D0AFC59</Item>
+            <Item>schwarzer_exh_nodes_3</Item>
           </linkedModels>
           <turnOffBones>
             <Item>misc_e</Item>
@@ -73291,10 +73291,10 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x91591B9F</modelName>
+          <modelName>schwarzer_exh_3c</modelName>
           <modShopLabel>SCHW_EXH_3C</modShopLabel>
           <linkedModels>
-            <Item>0x8D0AFC59</Item>
+            <Item>schwarzer_exh_nodes_3</Item>
           </linkedModels>
           <turnOffBones>
             <Item>misc_e</Item>
@@ -73318,10 +73318,10 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xE3D34092</modelName>
+          <modelName>schwarzer_exh_3e</modelName>
           <modShopLabel>SCHW_EXH_3E</modShopLabel>
           <linkedModels>
-            <Item>0x8D0AFC59</Item>
+            <Item>schwarzer_exh_nodes_3</Item>
           </linkedModels>
           <turnOffBones>
             <Item>misc_e</Item>
@@ -73345,7 +73345,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xDEC5165A</modelName>
+          <modelName>schwarzer_bumr_2a1</modelName>
           <modShopLabel>SCHW_BUMR_2A1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -73366,7 +73366,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x987389B0</modelName>
+          <modelName>schwarzer_bumr_2a2</modelName>
           <modShopLabel>SCHW_BUMR_2A2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -73387,7 +73387,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x3C539FB4</modelName>
+          <modelName>schwarzer_race_b</modelName>
           <modShopLabel>SCHW_RACE_A</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -73410,7 +73410,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x4A1E3B49</modelName>
+          <modelName>schwarzer_race_a</modelName>
           <modShopLabel>SCHW_RACE_B</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -73433,7 +73433,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x74440F98</modelName>
+          <modelName>schwarzer_race_d</modelName>
           <modShopLabel>SCHW_RACE_C</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -73456,7 +73456,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x8232AB75</modelName>
+          <modelName>schwarzer_race_c</modelName>
           <modShopLabel>SCHW_RACE_D</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -73479,7 +73479,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x215555C5</modelName>
+          <modelName>schwarzer_roof_a1</modelName>
           <modShopLabel>SCHW_ROOF_A1</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -73502,7 +73502,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x9AEDC8E0</modelName>
+          <modelName>schwarzer_roof_ac</modelName>
           <modShopLabel>SCHW_ROOF_AC</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -73525,7 +73525,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x34ABFB92</modelName>
+          <modelName>schwarzer_roof_b1</modelName>
           <modShopLabel>SCHW_ROOF_B1</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -73548,7 +73548,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xEDC7EDCF</modelName>
+          <modelName>schwarzer_roof_bc</modelName>
           <modShopLabel>SCHW_ROOF_BC</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -73571,7 +73571,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x849A57FB</modelName>
+          <modelName>schwarzer_livery9</modelName>
           <modShopLabel>SCHW_LIVERY9</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -73592,7 +73592,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xAEC51C0A</modelName>
+          <modelName>schwarzer_livery10</modelName>
           <modShopLabel>SCHW_LIVERY10</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -73613,7 +73613,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xFE33CB20</modelName>
+          <modelName>schwarzer_livery1</modelName>
           <modShopLabel>SCHW_LIVERY1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -73634,7 +73634,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xF08E2FD5</modelName>
+          <modelName>schwarzer_livery2</modelName>
           <modShopLabel>SCHW_LIVERY2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -73655,7 +73655,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xD9C3023F</modelName>
+          <modelName>schwarzer_livery3</modelName>
           <modShopLabel>SCHW_LIVERY3</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -73676,7 +73676,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xCC0066BA</modelName>
+          <modelName>schwarzer_livery4</modelName>
           <modShopLabel>SCHW_LIVERY4</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -73697,7 +73697,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xB9ADC215</modelName>
+          <modelName>schwarzer_livery5</modelName>
           <modShopLabel>SCHW_LIVERY5</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -73718,7 +73718,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xABF326A0</modelName>
+          <modelName>schwarzer_livery6</modelName>
           <modShopLabel>SCHW_LIVERY6</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -73739,7 +73739,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xA52B1910</modelName>
+          <modelName>schwarzer_livery7</modelName>
           <modShopLabel>SCHW_LIVERY7</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -73760,7 +73760,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x95CF7A65</modelName>
+          <modelName>schwarzer_livery8</modelName>
           <modShopLabel>SCHW_LIVERY8</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -73788,17 +73788,17 @@
           <turnOffExtra value="false"/>
         </Item>
         <Item>
-          <modelName>0x220BA674</modelName>
+          <modelName>schwarzer_exh_nodes_1</modelName>
           <bone>chassis</bone>
           <turnOffExtra value="false"/>
         </Item>
         <Item>
-          <modelName>0x0B517900</modelName>
+          <modelName>schwarzer_exh_nodes_2</modelName>
           <bone>chassis</bone>
           <turnOffExtra value="false"/>
         </Item>
         <Item>
-          <modelName>0x8D0AFC59</modelName>
+          <modelName>schwarzer_exh_nodes_3</modelName>
           <bone>chassis</bone>
           <turnOffExtra value="false"/>
         </Item>
@@ -95014,12 +95014,12 @@
       <livery2Names/>
     </Item>
     <Item>
-      <kitName>0x4EB0EAC2</kitName>
+      <kitName>507_picador_modkit</kitName>
       <id value="507"/>
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
-          <modelName>0xF85FE19B</modelName>
+          <modelName>pica_liv1</modelName>
           <modShopLabel>PICA_LIV1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95040,7 +95040,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x17311F3D</modelName>
+          <modelName>pica_liv2</modelName>
           <modShopLabel>PICA_LIV2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95061,7 +95061,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x23E1B89E</modelName>
+          <modelName>pica_liv3</modelName>
           <modShopLabel>PICA_LIV3</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95082,7 +95082,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x323FD55A</modelName>
+          <modelName>pica_liv4</modelName>
           <modShopLabel>PICA_LIV4</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95103,7 +95103,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x408571E5</modelName>
+          <modelName>pica_liv5</modelName>
           <modShopLabel>PICA_LIV5</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95124,7 +95124,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x5D7CABD7</modelName>
+          <modelName>pica_liv6</modelName>
           <modShopLabel>PICA_LIV6</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95145,7 +95145,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x6AB3C645</modelName>
+          <modelName>pica_liv7</modelName>
           <modShopLabel>PICA_LIV7</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95166,7 +95166,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x77D56088</modelName>
+          <modelName>pica_liv8</modelName>
           <modShopLabel>PICA_LIV8</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95187,7 +95187,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x97479F6C</modelName>
+          <modelName>pica_liv9</modelName>
           <modShopLabel>PICA_LIV9</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95208,7 +95208,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x98C749BC</modelName>
+          <modelName>pica_liv10</modelName>
           <modShopLabel>PICA_LIV10</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95229,7 +95229,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x2DB0B4B9</modelName>
+          <modelName>pica_wing_1</modelName>
           <modShopLabel>PICA_WING1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95250,7 +95250,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x884269DB</modelName>
+          <modelName>pica_wing_2</modelName>
           <modShopLabel>PICA_WING2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95271,7 +95271,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x7B1ECF94</modelName>
+          <modelName>pica_wing_3</modelName>
           <modShopLabel>PICA_WING3</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95292,7 +95292,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x64D4A300</modelName>
+          <modelName>pica_wing_4</modelName>
           <modShopLabel>PICA_WING4</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95313,7 +95313,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xAE3FB5BD</modelName>
+          <modelName>pica_wing_5</modelName>
           <modShopLabel>PICA_WING5</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95334,7 +95334,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xC065DA09</modelName>
+          <modelName>pica_wing_6</modelName>
           <modShopLabel>PICA_WING6</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95355,7 +95355,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x809B66E3</modelName>
+          <modelName>pica_hlight_1</modelName>
           <modShopLabel>PICA_HLIGHT1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95376,7 +95376,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x6A5D3A67</modelName>
+          <modelName>pica_hlight_2</modelName>
           <modShopLabel>PICA_HLIGHT2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95397,7 +95397,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x5D75DA22</modelName>
+          <modelName>pica_splt_1</modelName>
           <modShopLabel>PICA_SPLT1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95418,7 +95418,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x50383FA7</modelName>
+          <modelName>pica_splt_2</modelName>
           <modShopLabel>PICA_SPLT2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95439,7 +95439,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x7A5B93ED</modelName>
+          <modelName>pica_splt_3</modelName>
           <modShopLabel>PICA_SPLT3</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95460,7 +95460,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x6C10F758</modelName>
+          <modelName>pica_splt_4</modelName>
           <modShopLabel>PICA_SPLT4</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95481,7 +95481,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x14AE4894</modelName>
+          <modelName>pica_splt_5</modelName>
           <modShopLabel>PICA_SPLT5</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95502,7 +95502,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x066CAC11</modelName>
+          <modelName>pica_splt_6</modelName>
           <modShopLabel>PICA_SPLT6</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95523,7 +95523,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x325983EA</modelName>
+          <modelName>pica_splt_7</modelName>
           <modShopLabel>PICA_SPLT7</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95544,7 +95544,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x236BE60F</modelName>
+          <modelName>pica_splt_8</modelName>
           <modShopLabel>PICA_SPLT8</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95565,7 +95565,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x347E23E5</modelName>
+          <modelName>pica_hood_1</modelName>
           <modShopLabel>PICA_HOOD1</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -95588,7 +95588,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x85D446A0</modelName>
+          <modelName>pica_hood_2</modelName>
           <modShopLabel>PICA_HOOD2</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -95611,7 +95611,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x60F9FCDC</modelName>
+          <modelName>pica_hood_3</modelName>
           <modShopLabel>PICA_HOOD3</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -95634,7 +95634,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x22B0804A</modelName>
+          <modelName>pica_hood_4</modelName>
           <modShopLabel>PICA_HOOD4</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -95657,7 +95657,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x2600A00B</modelName>
+          <modelName>pica_cage_1</modelName>
           <modShopLabel>PICA_CAGE1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95678,7 +95678,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xA8392482</modelName>
+          <modelName>pica_cage_2</modelName>
           <modShopLabel>PICA_CAGE2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95699,7 +95699,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xFB8ACB24</modelName>
+          <modelName>pica_cage_3</modelName>
           <modShopLabel>PICA_CAGE3</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95720,7 +95720,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x74D61A56</modelName>
+          <modelName>pica_sust_1</modelName>
           <modShopLabel>ZR350_SUST1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95741,7 +95741,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xA38C77C2</modelName>
+          <modelName>pica_sust_2</modelName>
           <modShopLabel>ZR350_SUST2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95762,7 +95762,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x915BD361</modelName>
+          <modelName>pica_sust_3</modelName>
           <modShopLabel>ZR350_SUST3</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95783,7 +95783,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xABEF0893</modelName>
+          <modelName>pica_sust_4</modelName>
           <modShopLabel>ZR350_SUST4</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95804,7 +95804,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x91DED473</modelName>
+          <modelName>pica_sust_5</modelName>
           <modShopLabel>ZR350_SUST5</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95825,7 +95825,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xCF8A4FC9</modelName>
+          <modelName>pica_sust_6</modelName>
           <modShopLabel>ZR350_SUST6</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95846,7 +95846,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xBD32AB1A</modelName>
+          <modelName>pica_sust_7</modelName>
           <modShopLabel>ZR350_SUST7</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95867,7 +95867,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xF4C69A45</modelName>
+          <modelName>pica_sust_8</modelName>
           <modShopLabel>ZR350_SUST8</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95888,7 +95888,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x2627C762</modelName>
+          <modelName>pica_roof_1</modelName>
           <modShopLabel>PICA_ROOF1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95909,7 +95909,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x345E63CF</modelName>
+          <modelName>pica_roof_2</modelName>
           <modShopLabel>PICA_ROOF2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95930,7 +95930,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x10A41C5B</modelName>
+          <modelName>pica_roof_3</modelName>
           <modShopLabel>PICA_ROOF3</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95951,7 +95951,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xBEC3F04B</modelName>
+          <modelName>pica_bedcov_1</modelName>
           <modShopLabel>PICA_BEDCOV1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95972,7 +95972,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xF8FEE4C0</modelName>
+          <modelName>pica_bedcov_2</modelName>
           <modShopLabel>PICA_BEDCOV2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -95993,7 +95993,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xCD3F0D41</modelName>
+          <modelName>pica_bedcov_3</modelName>
           <modShopLabel>PICA_BEDCOV3</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -96014,7 +96014,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xA51BA1EA</modelName>
+          <modelName>pica_cageout_1</modelName>
           <modShopLabel>WARR2_CAGO1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -96035,7 +96035,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xB55E426F</modelName>
+          <modelName>pica_cageout_2</modelName>
           <modShopLabel>WARR2_CAGO2</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -96056,7 +96056,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xCB7F6EB1</modelName>
+          <modelName>pica_cageout_3</modelName>
           <modShopLabel>WARR2_CAGO3</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -96077,7 +96077,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x59B80B24</modelName>
+          <modelName>pica_cageout_4</modelName>
           <modShopLabel>WARR2_CAGO4</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -96098,7 +96098,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x01575A60</modelName>
+          <modelName>pica_cageout_5</modelName>
           <modShopLabel>WARR2_CAGO5</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -96119,7 +96119,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0x94F581A2</modelName>
+          <modelName>pica_cageout_6</modelName>
           <modShopLabel>WARR2_CAGO6</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -96140,10 +96140,10 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xB2A37C91</modelName>
+          <modelName>pica_wing_r_1</modelName>
           <modShopLabel>PICA_WNG1</modShopLabel>
           <linkedModels>
-            <Item>0x8BA2CE02</Item>
+            <Item>pica_wing_l_1</Item>
           </linkedModels>
           <turnOffBones>
             <Item>wing_lf</Item>
@@ -96166,7 +96166,7 @@
           <disableDrivebySeatSecondary value="-1"/>
         </Item>
         <Item>
-          <modelName>0xAE982C9B</modelName>
+          <modelName>pica_wngflame_1</modelName>
           <modShopLabel>PICA_SKRT1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -96189,7 +96189,7 @@
       </visibleMods>
       <linkMods>
         <Item>
-          <modelName>0x8BA2CE02</modelName>
+          <modelName>pica_wing_l_1</modelName>
           <bone>wing_lf</bone>
           <turnOffExtra value="false"/>
         </Item>
