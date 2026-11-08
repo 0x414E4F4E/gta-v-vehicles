@@ -88,6 +88,50 @@ const modTypes = [
   "VMT_DOOR_R",
   "VMT_LIVERY_MOD",
 ];
+const modTypeMap = {
+  "VMT_SPOILER": "CMOD_MOD_SPO",
+  "VMT_BUMPER_F": "CMOD_MOD_BUMF",
+  "VMT_BUMPER_R": "CMOD_MOD_BUMR",
+  "VMT_SKIRT": "CMOD_MOD_SKI",
+  "VMT_EXHAUST": "CMOD_MOD_MUF",
+  "VMT_CHASSIS": "CMOD_MOD_CHA",
+  "VMT_GRILL": "CMOD_MOD_GRL",
+  "VMT_BONNET": "CMOD_MOD_HOD",
+  "VMT_WING_L": "CMOD_MOD_FEN",
+  "VMT_WING_R": "CMOD_MOD_FEN",
+  "VMT_ROOF": "CMOD_MOD_ROF",
+  "VMT_ENGINE": "CMOD_MOD_ENG",
+  "VMT_BRAKES": "CMOD_MOD_BRA",
+  "VMT_GEARBOX": "CMOD_MOD_TRN",
+  "VMT_HORN": "CMOD_MOD_HRN",
+  "VMT_SUSPENSION": "CMOD_MOD_SUS",
+  "VMT_ARMOUR": "CMOD_MOD_ARM",
+  "VMT_TURBO": "CMOD_MOD_TUR",
+  "VMT_PLTHOLDER": "CMM_MOD_S0",
+  "VMT_PLTVANITY": "CMM_MOD_S1",
+  "VMT_INTERIOR1": "CMM_MOD_S2",
+  "VMT_INTERIOR2": "CMM_MOD_S3",
+  "VMT_INTERIOR3": "CMM_MOD_S4",
+  "VMT_INTERIOR4": "CMM_MOD_S5",
+  "VMT_INTERIOR5": "CMM_MOD_S6",
+  "VMT_SEATS": "CMM_MOD_S7",
+  "VMT_STEERING": "CMM_MOD_S8",
+  "VMT_KNOB": "CMM_MOD_S9",
+  "VMT_PLAQUE": "CMM_MOD_S10",
+  "VMT_ICE": "CMM_MOD_S11",
+  "VMT_TRUNK": "CMM_MOD_S12",
+  "VMT_HYDRO": "CMM_MOD_S13",
+  "VMT_ENGINEBAY1": "CMM_MOD_S14",
+  "VMT_ENGINEBAY2": "CMM_MOD_S15",
+  "VMT_ENGINEBAY3": "CMM_MOD_S16",
+  "VMT_CHASSIS2": "CMM_MOD_S17",
+  "VMT_CHASSIS3": "CMM_MOD_S18",
+  "VMT_CHASSIS4": "CMM_MOD_S19",
+  "VMT_CHASSIS5": "CMM_MOD_S20",
+  "VMT_DOOR_L": "CMM_MOD_S21",
+  "VMT_DOOR_R": "CMM_MOD_S22",
+  "VMT_LIVERY_MOD": "CMM_MOD_S23",
+};
 
 // lang
 const lang = [ "en", "zh", "zh-CN", "fr", "de", "it", "ja", "ko", "es-MX", "pl", "pt", "ru", "es" ];
@@ -123,7 +167,11 @@ function hexHash(name) {
 
 // label
 const labels = {};
-function label(label) {
+const knownKeys = Object.keys(dict.en);
+function label(label, label2) {
+  if (label2 && !knownKeys.includes(label)) {
+    label = label2;
+  }
   if (!labels[label.toUpperCase()]) {
     labels[label.toUpperCase()] = Object.fromEntries(lang.map(l => [ l, dict[l][label.toUpperCase()]?.replaceAll("µ", " ") ]));
   }
@@ -199,6 +247,7 @@ vehiclesOut.forEach(v => {
       // index
       type: m.type,
       typeIndex: modTypes.indexOf(m.type),
+      typeName: label(modkit?.slotNames?.find(({ slot }) => slot == m.type)?.name, modTypeMap[m.type]),
       modIndex: mods.filter((mm, ii) => mm.type.toUpperCase() == m.type.toUpperCase() && ii <= i).length,
       // model
       weight: m.weight,
